@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "hypothesis": "A decentralized, gamified competition platform utilizing blockchain technology and distributed computing will significantly increase citizen participation in computational research while producing verifiable scientific contributions."
+  },
+  {
+    "id": "example-1",
+    "hypothesis": "This is an example hypothesis that demonstrates the expected format. Example entries are automatically hidden in the UI.",
+    "_isExample": true
+  }
+]
